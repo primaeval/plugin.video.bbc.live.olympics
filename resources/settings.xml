@@ -1,0 +1,5 @@
+<settings>
+<category label="Display">
+<setting id="olympics" label="Olympic Stream Bitrate" type="enum" values="600k|1M|1.8M|3.1M|5.5M" default="2"/>
+</category>
+</settings>
